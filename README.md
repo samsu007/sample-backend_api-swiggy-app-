@@ -3,9 +3,7 @@ swiggy app backend database connected with mongoose db with sample api documents
 
 install :
 
-npm init
-
-npm install --save express mongoose body-parser
+npm install 
 
 create app folder
 
