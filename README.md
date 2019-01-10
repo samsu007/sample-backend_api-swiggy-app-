@@ -9,7 +9,7 @@ npm install --save express mongoose body-parser
 
 create app folder
 
-inside app folder create three folder such as routes, controller, model
+inside app folder create three folder such as routes, controllers, models
 
 inside routes folder paste all route.js file
 
